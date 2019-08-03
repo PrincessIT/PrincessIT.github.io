@@ -1,5 +1,8 @@
 ---
-titles: Hello World
+layout: article
+titles:
+       Hello World ZH
+key: page-about
 comments: true
 ---
 
