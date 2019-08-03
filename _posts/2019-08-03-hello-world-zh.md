@@ -1,5 +1,8 @@
 ---
+layout: default
 titles: Hello World
+comments: true
+# other options
 ---
 
 
