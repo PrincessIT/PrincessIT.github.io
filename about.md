@@ -21,4 +21,4 @@ key: page-about
 
 ## Photo
 
-![Princess](https://avatars1.githubusercontent.com/u/53628575?s=460&v=4.jpg)
+![Princess](/P/10.jpg)
