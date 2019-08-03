@@ -1,3 +1,9 @@
-title:Hello World!
+```
+---
+layout: article
+title: Hello World
+mathjax: true
+---
+```
 
-Hello World!
+Hello World
