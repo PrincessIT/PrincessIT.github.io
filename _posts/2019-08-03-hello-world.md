@@ -1,9 +1,12 @@
 ---
 layout: article
-titles: Hello World
-comments: true
+titles:
+       Hello World
 key: page-about
+comments: true
 ---
 
 
 Hello World
+
+Welcome to my website!~
