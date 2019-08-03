@@ -208,3 +208,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+
+# Disqus settings（https://disqus.com/）
+disqus_username: disqus_yIXbsDhCxP
