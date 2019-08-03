@@ -120,7 +120,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: osakai # the Disqus shortname for the site
+    shortname:osakai # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
@@ -208,7 +208,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-
-# Disqus settings（https://disqus.com/）
-disqus_username: disqus_yIXbsDhCxP
