@@ -81,7 +81,7 @@ LICENSE_ANNOUNCE:
   zh-Hans: "本文遵守 [LICENSE] 许可协议。"
   zh-Hant: "本文遵守 [LICENSE] 許可協議。"
 
-#POST_ON_GITHUB:
+POST_ON_GITHUB:
   en:      "Edit on Github"
   zh:      "在 Github 上修改"
   zh-Hans: "在 Github 上修改"
