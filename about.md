@@ -21,4 +21,4 @@ key: page-about
 
 ## Photo
 
-![Princess](/P/10.jpg)
+![Princess](https://raw.githubusercontent.com/PrincessIT/PrincessIT.github.io/master/P/10.JPG)
