@@ -1,7 +1,7 @@
+---
 layout: article
-title: Hello World
-mathjax: true
-
+titles: Hello World
+---
 
 
 Hello World
