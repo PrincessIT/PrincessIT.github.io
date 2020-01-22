@@ -2,7 +2,7 @@
 layout: article
 titles:
        Happy new year!~
-tags: Test
+tags: 2020
 key: page-about
 comments: true
 ---
