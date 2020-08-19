@@ -20,3 +20,7 @@ Happy new year!~🎇
 <div>{%- include extensions/soundcloud.html id='558815340' -%}</div>
 
 ---
+
+<div>{%- include extensions/youtube.html id='v=lD-yUC87-BQ' -%}</div>
+
+---
