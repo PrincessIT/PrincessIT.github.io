@@ -21,6 +21,8 @@ Happy new year!~🎇
 
 ---
 
-<div>{%- include extensions/youtube.html id='v=lD-yUC87-BQ' -%}</div>
+---
+
+<div>{%- include extensions/youtube.html id='lD-yUC87-BQ' -%}</div>
 
 ---
